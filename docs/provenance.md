@@ -19,11 +19,11 @@
 
 技术栈和调用模型是项目使用的能力，不代表我独立训练模型或独立编写全部底层工程。当前流程由模型生成、确定性程序与人工确认共同完成。
 
-## 已公开共同资料
+## Skill 维护入口
 
-[muse10-nail-visuals](https://github.com/17lijunyi/17lijunyi/tree/main/skills/muse10-nail-visuals) 位于协作者的公开仓库。已核对的该路径提交日期为 2026-09-12；案例资料核读日期为 2026-10-07。提交日期不用于推断全部作者贡献，公开仓库也不代表当前后端已经直接集成。
+[muse10-nail-visuals](https://github.com/EveEveeee/Eve/tree/main/skills/muse10-nail-visuals) 由王洋娟（Eve）在自己的 GitHub 作品仓库维护，公开版本于 2026-10-11 整理。完整文件夹包含使用说明、固定陈列模板、阶段 Prompt、图库模板、检查脚本与示例。
 
-本仓库引用该资料的入口，未重新分发其完整源码、模板或示例图片。
+本案例链接到这个维护版本。Skill 的商品视觉流程与项目的本人手图试戴分别验收；公开 Skill 不代表当前后端已经直接集成。
 
 ## 图片与数据选择
 

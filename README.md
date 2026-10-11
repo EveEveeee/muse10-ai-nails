@@ -56,6 +56,6 @@ Muse10 是一个持续迭代的个人共建项目，开始于 2026 年 9 月。�
 - [产品决策与流程](docs/product-decisions.md)
 - [验证记录与当前边界](docs/validation.md)
 - [资料来源与协作范围](docs/provenance.md)
-- [共同封装的 muse10-nail-visuals Skill](https://github.com/17lijunyi/17lijunyi/tree/main/skills/muse10-nail-visuals)
+- [本人维护的 muse10-nail-visuals Skill](https://github.com/EveEveeee/Eve/tree/main/skills/muse10-nail-visuals)
 
 本仓库整理公开产品案例，不包含运行密钥、消费者原始记录、本人手部原图或应用运行数据。资料基线核对至 2026-10-07。
