@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Muse10 AI 美甲流程设计</title>
+  <desc id="desc">已有款式与参考图加文字共创新款两条入口，进入母版确认、方向与指位、拍摄与定位、试戴与对比。流程设计，部分节点仍待闭环。</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf7"/>
+      <stop offset="1" stop-color="#f7e9e8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ae626f"/>
+      <stop offset="1" stop-color="#804956"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0 0 L7 3.5 L0 7" fill="none" stroke="#b98991" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <style>
+      text { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; }
+      .ink { fill: #493039; }
+      .muted { fill: #886e76; }
+      .line { fill: none; stroke: #b98991; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+      .card { fill: #fffdfb; stroke: #e6cdd0; stroke-width: 1.4; }
+    </style>
+  </defs>
+  <rect width="1200" height="675" rx="24" fill="url(#paper)"/>
+  <circle cx="1110" cy="30" r="200" fill="#e8c3c8" opacity=".14"/>
+  <circle cx="15" cy="640" r="170" fill="#fffef8" opacity=".48"/>
+  <text x="48" y="62" font-size="16" letter-spacing="3" fill="#a0616f">MUSE10 · PRODUCT DESIGN</text>
+  <text x="48" y="120" font-size="44" font-weight="650" class="ink">先看见，再决定。</text>
+  <text x="49" y="161" font-size="20" class="muted">AI 美甲款式共创与到店试戴</text>
+  <rect x="965" y="45" width="187" height="40" rx="20" fill="#ffffff" fill-opacity=".65" stroke="#e4c8ce"/>
+  <text x="1058.5" y="71" text-anchor="middle" font-size="16" fill="#99606d">两条入口 · 共用流程</text>
+
+  <rect x="48" y="224" width="284" height="94" rx="19" class="card"/>
+  <circle cx="83" cy="262" r="15" fill="#f4e2e5"/>
+  <text x="83" y="268" text-anchor="middle" font-size="16" font-weight="600" fill="#995c6b">A</text>
+  <text x="109" y="268" font-size="26" font-weight="600" class="ink">已有款式</text>
+  <text x="109" y="299" font-size="17" class="muted">保留原款，先确认再试戴</text>
+
+  <rect x="48" y="360" width="284" height="94" rx="19" class="card"/>
+  <circle cx="83" cy="394" r="15" fill="#f4e2e5"/>
+  <text x="83" y="400" text-anchor="middle" font-size="16" font-weight="600" fill="#995c6b">B</text>
+  <text x="109" y="395" font-size="22" font-weight="600" class="ink">参考图＋文字</text>
+  <text x="109" y="425" font-size="17" class="muted">共创新款，先选方案再试戴</text>
+
+  <path d="M332 271 H370 V366" class="line"/>
+  <path d="M332 407 H370 V366 H411" class="line" marker-end="url(#arrow)"/>
+  <circle cx="370" cy="366" r="3.5" fill="#b98991"/>
+
+  <rect x="420" y="296" width="164" height="140" rx="19" class="card"/>
+  <text x="441" y="329" font-size="15" font-weight="600" fill="#b17a87">01</text>
+  <text x="441" y="366" font-size="25" font-weight="600" class="ink">母版确认</text>
+  <text x="441" y="401" font-size="17" class="muted">核对款式与枚数</text>
+
+  <path d="M585 366 H603" class="line" marker-end="url(#arrow)"/>
+  <rect x="612" y="296" width="164" height="140" rx="19" class="card"/>
+  <text x="631" y="329" font-size="15" font-weight="600" fill="#b17a87">02</text>
+  <text x="631" y="366" font-size="24" font-weight="600" class="ink">方向与指位</text>
+  <text x="631" y="401" font-size="17" class="muted">明确根尖与手别</text>
+
+  <path d="M777 366 H795" class="line" marker-end="url(#arrow)"/>
+  <rect x="804" y="296" width="164" height="140" rx="19" class="card"/>
+  <text x="823" y="329" font-size="15" font-weight="600" fill="#b17a87">03</text>
+  <text x="823" y="366" font-size="24" font-weight="600" class="ink">拍摄与定位</text>
+  <text x="823" y="401" font-size="17" class="muted">引导拍摄并审核</text>
+
+  <path d="M969 366 H987" class="line" marker-end="url(#arrow)"/>
+  <rect x="996" y="296" width="164" height="140" rx="19" fill="url(#accent)"/>
+  <text x="1015" y="329" font-size="15" font-weight="600" fill="#eccfd5">04</text>
+  <text x="1015" y="366" font-size="24" font-weight="600" fill="#fffaf8">试戴与对比</text>
+  <text x="1015" y="401" font-size="17" fill="#f4e2e6">检查原款和原手</text>
+
+  <rect x="48" y="513" width="1112" height="104" rx="19" fill="#eed7dd" fill-opacity=".56"/>
+  <circle cx="76" cy="548" r="4.5" fill="#a15f70"/>
+  <text x="92" y="555" font-size="23" font-weight="600" fill="#754c58">流程设计 · 部分节点仍待闭环</text>
+  <text x="72" y="588" font-size="18" class="muted">交互原型与本机后端 POC · 技术生成与本人手图试戴分别验收</text>
+  <text x="1160" y="651" text-anchor="end" font-size="13" letter-spacing="1.5" fill="#b6919c">MUSE10 / WORKFLOW</text>
+</svg>
